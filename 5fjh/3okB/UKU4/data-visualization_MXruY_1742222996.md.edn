@@ -51,7 +51,6 @@
   clojure.test.check.properties/for-all*                                               [[:block 1]]
   clojure.test.check/quick-check                                                       [[:block 1]]
   clojure.tools.macro/macrolet                                                         [[:block 1] [:inner 2 0]]
-  clojurewerkz.quartzite.jobs/build                                                    [[:default]]
   clojurewerkz.quartzite.jobs/with-description                                         [[:default]]
   clojurewerkz.quartzite.jobs/with-identity                                            [[:default]]
   clojurewerkz.quartzite.schedule.cron/schedule                                        [[:default]]
