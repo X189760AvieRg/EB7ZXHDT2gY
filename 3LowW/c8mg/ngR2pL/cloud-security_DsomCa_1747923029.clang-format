@@ -12,7 +12,6 @@ BinPackArguments: false
 BinPackParameters: false
 ColumnLimit: 100
 DerivePointerBinding: false
-IndentCaseLabels: false
 IndentWidth: 4
 SpaceAfterTemplateKeyword: false
 TabWidth: 4
