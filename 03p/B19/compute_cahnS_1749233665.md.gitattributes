@@ -1,2 +1,5 @@
+```gitconfig
 # allows for nicer hunk headers with git show
-*.rs diff=rust
+[diff]
+    rust = diff=rust
+```
